@@ -35,3 +35,5 @@ Ultimately, our aim was to design a reflective tool that supports institutional 
 It has been tested at the NIOD, where we discussed our report and played through the simulator, letting different employees argue their preferred choices before collectively making final decisions. 
 Thereby, the simulator externalizes decision-making into an interactive format, which provides a shared language through which different perspectives and priorities can be articulated more clearly. 
 Used in internal meetings or in workshop settings, the simulator may thus help reduce uncertainty in strategic discussions by translating abstract tensions into a structured set of choices and outcomes for other heritage institutions. 
+
+The full details of our research project is described in our Case Study Project, which is available in the files on this page. 
