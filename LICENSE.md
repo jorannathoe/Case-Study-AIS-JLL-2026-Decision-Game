@@ -1,17 +1,28 @@
-Licensing
+# Licensing
+
+This repository contains material distributed under multiple licenses.
 
 ## Original project content
 
-Original documentation, game content, and research materials created for this project are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license, unless otherwise stated.
+Original documentation, game content, research materials, and other
+non-software content created specifically for this project are licensed
+under the Creative Commons Attribution 4.0 International (CC BY 4.0)
+license, unless otherwise stated.
 
-See `LICENSE-CC-BY-4.0.txt` for the full license text.
+See [LICENSES/CC-BY-4.0.md](LICENSES/CC-BY-4.0.md).
 
 ## Original software and code
 
-Original software/code created specifically for this project is licensed under the MIT License.
+Original software and code created specifically for this project are
+licensed under the MIT License.
 
-See `LICENSE-MIT.txt` for the full license text.
+See [LICENSES/MIT.txt](LICENSES/MIT.txt).
 
 ## Third-party components
 
-The Twine-generated simulation contains third-party software and libraries that are distributed under their own respective licenses. Copyright and license notices embedded in those components remain applicable and are not superseded by the licenses above.
+The exported Twine simulation contains third-party software components
+and libraries. These remain subject to their respective copyright and
+licensing terms.
+
+Copyright and license notices embedded in `index.html` remain applicable
+and are not superseded by the licenses above.
