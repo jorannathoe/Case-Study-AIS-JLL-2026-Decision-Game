@@ -9,6 +9,7 @@ Each dilemma offers up two possible choices, where discrete decisions influence 
 The simulator nevertheless has its limitations. For instance, there are a lot more dilemmas left to explore and existing dilemmas could be expanding through the addition of more choices, such as a hybrid collection strategy. 
 Additionally, the current model does not simulate interdependencies between different choices, for example, how a broad scope may constrain accessibility choices due to copyright and ethical concerns. 
 Furthermore, the value system is heavily dependent upon our interpretation of web archiving literature as well as our practical understanding drawing only on one institutional case study site.  
+
 As a consequence, we elected to include a set of reflexive questions at each end scenario, where we explicitly ask for feedback on the tool and on unexplored strategies. We hope that by making the files freely available, interested parties will be inspired to further develop the simulator to suit their needs.
 
 Ultimately, our aim was to design a reflective tool that supports institutional discussions around their web archiving strategy. 
