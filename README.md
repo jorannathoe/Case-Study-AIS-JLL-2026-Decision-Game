@@ -23,6 +23,8 @@ The full details of our research project is described in our Case Study Project,
 
 ## License
 
-This repository contains material under multiple licenses. Original software/code is licensed under the MIT License, while original documentation, game content, and research materials are licensed under CC BY 4.0. Third-party components remain subject to their respective licenses.
+This repository contains original project content licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The exported Twine simulation also contains third-party software components, which remain subject to their respective licenses.
 
 See [LICENSE.md](LICENSE.md) for details.
