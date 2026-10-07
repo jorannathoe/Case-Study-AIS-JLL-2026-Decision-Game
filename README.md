@@ -18,3 +18,9 @@ Thereby, the simulator externalizes decision-making into an interactive format, 
 Used in internal meetings or in workshop settings, the simulator may thus help reduce uncertainty in strategic discussions by translating abstract tensions into a structured set of choices and outcomes for other heritage institutions. 
 
 The full details of our research project is described in our Case Study Project, which is available in the files on this page. 
+
+## License
+
+This repository contains material under multiple licenses. Original software/code is licensed under the MIT License, while original documentation, game content, and research materials are licensed under CC BY 4.0. Third-party components remain subject to their respective licenses.
+
+See [LICENSE.md](LICENSE.md) for details.
